@@ -1,5 +1,5 @@
 # Image-Processing-Exploratory-Project-Dr.-Vijay-Shinde
-_This Repository contains the Project Overview Poster and Literature Review Poster of the project_
+_This Repository contains the Project Overview Poster and Literature Review Poster_
 - For a brief Literature Review of the Project, please check [Image_processing_Litrature_review](https://github.com/vardanpopli/Image-Processing-Exploratory-Project-Dr.-Vijay-Shinde/blob/main/Image_processing_Litrature_review.pdf)
 - For a compact overview of the Project, please Check [Image_processing_Poster](https://github.com/vardanpopli/Image-Processing-Exploratory-Project-Dr.-Vijay-Shinde/blob/main/Image_processing_Poster.pdf)
 
