@@ -55,5 +55,5 @@ Image processing is increasingly being employed to analyze chemical processes, m
 _Image processing is a versatile and powerful tool in chemical engineering_. It enhances the understanding and optimization of _chemical processes_, _improves quality control_, and contributes to advancements in fields like _bioinformatics_. The integration of techniques like noise filtering, morphological operations, and feature extraction into chemical engineering applications offers significant potential for innovation and efficiency improvements.
 
 # References
-[Hands-on Image processing with Python_Sandipan Dey](https://github.com/PacktPublishing/Hands-On-Image-Processing-with-Python)
-[Digital Image Processing 3rd ed. - R. Gonzalez, R. Woods](https://sde.uoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez,%20R.%20Woods-ilovepdf-compressed.pdf)
+- [Hands-on Image processing with Python_Sandipan Dey](https://github.com/PacktPublishing/Hands-On-Image-Processing-with-Python)
+- [Digital Image Processing 3rd ed. - R. Gonzalez, R. Woods](https://sde.uoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez,%20R.%20Woods-ilovepdf-compressed.pdf)
